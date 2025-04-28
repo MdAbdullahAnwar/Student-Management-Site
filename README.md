@@ -30,6 +30,22 @@ A vibrant, feature-rich Student Management Application built with React that mak
 | CSS3           | Styled with modern gradients         |
 | HTML5          | Semantic markup structure            |
 
+## 📂 Folder Structure
+```
+student-management-site/
+│
+├── public/
+│   └── index.html            # Main HTML file
+│
+├── src/
+│   ├── App.css               # Styles for the App
+│   ├── App.js                # Main component that runs the application
+│   ├── index.js              # React entry point
+│
+├── package.json              # NPM dependencies and scripts
+└── README.md                 # Project documentation
+```
+
 ## 🚀 Quick Start
 
 ### Prerequisites
